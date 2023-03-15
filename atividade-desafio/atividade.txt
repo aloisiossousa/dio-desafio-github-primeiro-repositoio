@@ -1,4 +1,9 @@
 Roteiro de desafio do BootCamp Pan 2023
 
 1- Criar uma repositório no Git/Github
-≈≈
+
+2- utilizei os comando como git status, git add e commit -m
+
+3- Foi encontrado um problema, pois tive reativa a chave de acesso
+
+4- Foi criado uma pasta de aula git para algumas revisões no processo de aprendizagem.
